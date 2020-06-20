@@ -5,13 +5,13 @@
 
 ## Contents
 
-- [Section](#section)
+- [Themes](#themes)
 - [Another Section](#another-section)
 
 
-## Section
+## Themes
 
-About this section. Optional. Keep this short and focus on the list.
+Free & Paid Mixcore CMS Theme List
 
 - [List item](http://example.com)
 - [List item](http://example.com)
