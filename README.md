@@ -21,8 +21,9 @@ Free & Paid Mixcore CMS Theme List
 
 ### Subsection
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Blank](https://github.com/mixcore/mix.theme.blank)
+- [Clean Blog](https://github.com/mixcore/mix.theme.clean-blog)
+- [Mixcore Material Kit](https://github.com/mixcore/mix.theme.material-kit)
 
 
 ## Contribute
