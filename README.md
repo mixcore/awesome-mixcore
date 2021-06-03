@@ -16,6 +16,7 @@ Free & Paid Mixcore CMS Theme List
 - [Blank](https://github.com/mixcore/mix.theme.blank)
 - [Clean Blog](https://github.com/mixcore/mix.theme.clean-blog)
 - [Mixcore Material Kit](https://github.com/mixcore/mix.theme.material-kit)
+- [Ghost Casper Blog Theme](https://github.com/mixcore/mix.theme.casper)
 
 
 ## Another Section
